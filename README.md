@@ -27,11 +27,11 @@ Welcome page after log in
 Next is scheduling the event
 
 
-<img src="EventManagementSystem/Images/Schedule meeting output.png">
+<img src="Images/Schedule meeting output.png">
 List of events 
 
 
-<img src="Images/Event Scheduling.png">
+<img src="Images/Cancelling event.png">
 Cancellation of a single event
 
 
