@@ -31,12 +31,12 @@ Next is scheduling the event
 List of events 
 
 
-<img src="Images/Cancelling event.png">
+<img src="Images/Event Scheduling.png">
 Cancellation of a single event
 
 
-<img src="EventManagementSystem/Images/Succesfully deleted output.png">
+<img src="Images/Succesfully deleted output.png">
 
-<img src="EventManagementSystem/Images/After deleting .png">
+<img src="Images/After deleting .png">
 Here is the result for deleting an event 
 
