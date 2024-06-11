@@ -11,27 +11,27 @@ Here in this project, user can schedule events , delete events and view list of 
 
 
 
-<img src="EventManagementSystem/Images/Registeration form.png">
+<img src="Images/Registeration form.png">
 
 Enter the details in the Sign up form and log in
 
 
 
-<img src="EventManagementSystem/Images/After log in.png">
+<img src="Images/Log in .png">
 
 Welcome page after log in
 
 
-<img src="EventManagementSystem/Images/Event Scheduling.png">
+<img src="Images/Event Scheduling.png">
 
 Next is scheduling the event
 
 
-<img src=" EventManagementSystem/Images/Schedule meeting output.png">
+<img src="EventManagementSystem/Images/Schedule meeting output.png">
 List of events 
 
 
-<img src="EventManagementSystem/Images/Cancelling event.png ">
+<img src="Images/Cancelling event.png">
 Cancellation of a single event
 
 
